@@ -1,2 +1,2 @@
-# notes
-my ft kq res file.
+# 苦荞分析结果
+
